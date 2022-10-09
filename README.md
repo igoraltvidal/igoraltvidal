@@ -9,6 +9,8 @@
 
 - 👯 I’m looking to collaborate on **Machine Learning & Embedded Systems** projects
 
+- 📍 I already lived in Brazil, United States and Germany
+
 - 📫 How to reach me **contact@igoraltvidal.com**
 
 <h3 align="left">Connect with me:</h3>
